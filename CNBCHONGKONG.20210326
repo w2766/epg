@@ -1,0 +1,15 @@
+[
+{"startTime":"2021-03-26 01:00:00","endTime":"2021-03-26 02:00:00","title":"The Exchange"},
+{"startTime":"2021-03-26 02:00:00","endTime":"2021-03-26 03:00:00","title":"Power Lunch"},
+{"startTime":"2021-03-26 03:00:00","endTime":"2021-03-26 05:00:00","title":"Closing Bell"},
+{"startTime":"2021-03-26 05:00:00","endTime":"2021-03-26 06:00:00","title":"Fast Money"},
+{"startTime":"2021-03-26 06:00:00","endTime":"2021-03-26 09:00:00","title":"Squawk Box Asia"},
+{"startTime":"2021-03-26 09:00:00","endTime":"2021-03-26 12:00:00","title":"Street Signs Asia"},
+{"startTime":"2021-03-26 12:00:00","endTime":"2021-03-26 13:00:00","title":"The News With Shepard Smith"},
+{"startTime":"2021-03-26 13:00:00","endTime":"2021-03-26 14:00:00","title":"Capital Connection"},
+{"startTime":"2021-03-26 14:00:00","endTime":"2021-03-26 17:00:00","title":"Squawk Box Europe"},
+{"startTime":"2021-03-26 17:00:00","endTime":"2021-03-26 18:00:00","title":"Worldwide Exchange"},
+{"startTime":"2021-03-26 18:00:00","endTime":"2021-03-26 21:00:00","title":"Squawk Box US"},
+{"startTime":"2021-03-26 21:00:00","endTime":"2021-03-26 23:00:00","title":"Squawk On The Street"},
+{"startTime":"2021-03-26 23:00:00","endTime":"2021-03-27 00:00:00","title":"Squawk Alley US"},
+{}]
