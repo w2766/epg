@@ -12,7 +12,8 @@
 {"startTime":"2021-03-28 07:00:00","endTime":"2021-03-28 07:30:00","title":"Foreign Correspondents"},
 {"startTime":"2021-03-28 07:30:00","endTime":"2021-03-28 08:00:00","title":"K-Unboxing"},
 {"startTime":"2021-03-28 08:00:00","endTime":"2021-03-28 09:00:00","title":"After School Club"},
-{"startTime":"2021-03-28 09:00:00","endTime":"2021-03-28 10:00:00","title":"Medical Korea"},
+{"startTime":"2021-03-28 09:00:00","endTime":"2021-03-28 09:30:00","title":"Medical Korea"},
+{"startTime":"2021-03-28 09:30:00","endTime":"2021-03-28 10:00:00","title":"Premium Collection"},
 {"startTime":"2021-03-28 10:00:00","endTime":"2021-03-28 10:30:00","title":"Peace Insight"},
 {"startTime":"2021-03-28 10:30:00","endTime":"2021-03-28 11:00:00","title":"Smartbiz Accelerators"},
 {"startTime":"2021-03-28 11:00:00","endTime":"2021-03-28 11:10:00","title":"Arirang News"},
@@ -37,4 +38,6 @@
 {"startTime":"2021-03-28 21:30:00","endTime":"2021-03-28 22:00:00","title":"I'M Live"},
 {"startTime":"2021-03-28 22:00:00","endTime":"2021-03-28 22:30:00","title":"K-Unboxing"},
 {"startTime":"2021-03-28 22:30:00","endTime":"2021-03-28 23:00:00","title":"Documentary A"},
+{"startTime":"2021-03-28 23:00:00","endTime":"2021-03-28 23:30:00","title":"Premium Collection"},
+{"startTime":"2021-03-28 23:30:00","endTime":"2021-03-29 00:00:00","title":"Premium Collection"},
 {}]
